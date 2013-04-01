@@ -1,4 +1,4 @@
-code
+Software
 ====
 
 This repository contains the code used to run the Herald Calligraphy Robot.
