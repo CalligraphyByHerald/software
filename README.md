@@ -6,7 +6,7 @@ It not be under development after April 14, 2013.
 All software in this repo was created by Diana Vermilya, Shane Skikne, and Eric Tappan in the Fall of 2012 for 
 Principles of Engineering at Olin College (Professor: Chris Murphy).
 For more information about this project, please visit http://calligraphybyherald.wix.com/herald
-For inquiries, please email CalligraphyByHerald@gmail.com
+For inquiries, please email CalligraphyByHerald@gmail.com   
 If you find this material useful, or would otherwise like to, feel free to donate via venmo at https://venmo.com/Diana-Vermilya with the comment "Herald."
 
 
