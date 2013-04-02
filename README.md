@@ -7,7 +7,7 @@ All software in this repo was created by Diana Vermilya, Shane Skikne, and Eric 
 Principles of Engineering at Olin College (Professor: Chris Murphy).
 For more information about this project, please visit http://calligraphybyherald.wix.com/herald
 For inquiries, please email CalligraphyByHerald@gmail.com   
-If you find this material useful, or would otherwise like to, feel free to donate via venmo at https://venmo.com/Diana-Vermilya with the comment "Herald."
+If you find this material useful, or would otherwise like to, feel free to donate to our future engineering endeavors via venmo at https://venmo.com/Diana-Vermilya with the comment "Herald."
 
 
 
